@@ -24,6 +24,7 @@ export const Container = styled.div`
             grid-auto-rows: 1fr 1fr;
             gap: 1.25rem;
             align-content: center;
+            padding: 2.5rem 3.5rem;
         }
     }
 `  

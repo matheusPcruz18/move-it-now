@@ -56,7 +56,7 @@ export const CountdownBtn = styled.button`
     border-radius: 5px;
     background: ${props => props.theme.blue};
     transition: background-color 0.2s;
-    color: ${props => props.theme.white};
+    color: #fff;
 
     font-size: 1.25rem;
     font-weight: 600;

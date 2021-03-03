@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const Header = styled.header`
     display: flex;
     align-items: center;
+    color: ${props => props.theme.title};
 
     .expLeft{
         font-size: 1rem;
@@ -20,7 +21,7 @@ export const Header = styled.header`
             flex: 1;
             height: 4px;
             border-radius: 4px;
-            background: ${props => props.theme.green};
+            background: ${props => props.theme.blue};
             transition: all ease 0.50s;
         }
 
@@ -28,7 +29,7 @@ export const Header = styled.header`
             position: absolute;
             top: 12px;
             transform: translateX(-50%);
-
+            
             transition: all ease 0.50s;
         }
     }
