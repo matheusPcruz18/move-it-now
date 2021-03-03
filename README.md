@@ -15,16 +15,10 @@ Next Level Week #04 #NLW [@Rocketseat](https://github.com/Rocketseat)
 
 ## 📷 Veja
 
-gifs
-
-gifs
-
-gifs
-
----
+<img src="public/github/gif.gif" alt="gif"/>
 
 ## Demo
-[moveit-now.vercel.app](https://github.com/Rocketseat)
+[https://moveit-now.vercel.app/]
 
 ---
 
